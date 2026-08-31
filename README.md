@@ -5,7 +5,7 @@
 
 -----
 
-Hi! I'm João Pedro, Software Engeneer Student
+Hi! I'm João Pedro
 <div class = "apresentation">
   <ul>
     <li>📚  I'm studying React for front-end and Java for back-end to use in practical projects.</li>
