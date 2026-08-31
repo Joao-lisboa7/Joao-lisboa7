@@ -1,4 +1,11 @@
-## Hi! I'm João Pedro, Software Engeneer Student
+## 
+<div>
+  <img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
+</div>
+
+-----
+
+Hi! I'm João Pedro, Software Engeneer Student
 <div class = "apresentation">
   <ul>
     <li>📚  I'm studying React for front-end and Java for back-end to use in practical projects.</li>
@@ -6,5 +13,3 @@
     <li>📲  Contact me at email: jplisboa.dev@gmail.com</li>
   </ul>
 </div>
-
-##
