@@ -77,3 +77,9 @@ Hi! I'm João Pedro
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+
+------
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=jplisboabrito">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=jplisboabrito" alt="Data Card for Spotify">
+</a>
