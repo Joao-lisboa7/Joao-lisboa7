@@ -32,7 +32,7 @@ Hi! I'm João Pedro
 </td>
 <td><a href="www.linkedin.com/in/joão-pedro-lisboa-augusto-de-brito-7abaa9345" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-</td>-->
+</td>
 <td><a href="https://discord.com/users/745044751413411889" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
@@ -44,18 +44,12 @@ Hi! I'm João Pedro
 </div>
 
 -----
+<div>
+  
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
 
-<table>
-<tr>
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@ebac3ea3-9600-445e-beca-3336a5cd2870">WakaTime</a></td>
-</tr> 
-<tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=ebac3ea3-9600-445e-beca-3336a5cd2870&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=ebac3ea3-9600-445e-beca-3336a5cd2870&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
-</td>
-</tr>
-</table>
+<div align="center">
+  
 <table>
 <tr>
  <td align="center" colspan="3"></td>
@@ -77,6 +71,13 @@ Hi! I'm João Pedro
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
 
 ------
 
