@@ -22,18 +22,18 @@ Hi! I'm João Pedro
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://aramuni.dev/"><img src="https://Joao-lisboa7.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://github.com/Joao-lisboa7" target="_blank"><img src="https://Joao-lisboa7.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Joao-lisboa7" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:jplisboa.dev@gmail.com" target="_blank"><img src="https://Joao-lisboa7.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531996690693" target="_blank"><img src="https://Joao-lisboa7.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531996690693" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="www.linkedin.com/in/joão-pedro-lisboa-augusto-de-brito-7abaa9345" target="_blank"><img src="https://Joao-lisboa7.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="www.linkedin.com/in/joão-pedro-lisboa-augusto-de-brito-7abaa9345" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
-<td><a href="https://discord.com/users/745044751413411889" target="_blank"><img src="https://Joao-lisboa7.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discord.com/users/745044751413411889" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
 </tr>
@@ -46,7 +46,7 @@ Hi! I'm João Pedro
 -----
 <div>
   
-<img height="20" alt="SVG" src="https://Joao-lisboa7.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
 
 <div align="center">
   
