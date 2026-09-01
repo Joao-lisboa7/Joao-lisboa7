@@ -22,8 +22,6 @@ Hi! I'm João Pedro
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <td><a href="https://github.com/Joao-lisboa7" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:jplisboa.dev@gmail.com" target="_blank"><img src="https://Joao-lisboa7.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
@@ -78,8 +76,6 @@ Hi! I'm João Pedro
 </tr> 
 <tr>
 <td>
-
-------
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=jplisboabrito">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=jplisboabrito" alt="Data Card for Spotify">
