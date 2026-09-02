@@ -1,6 +1,6 @@
 ## 
 <div>
-  <img align="center" alt="Header" src="https://github.com/Joao-lisboa7/Joao-lisboa7/blob/main/github_img/github-header-banner.png"/>
+  <img align="center" alt="Header" src="https://github.com/Joao-lisboa7/Joao-lisboa7/blob/main/github_img/Gemini_Generated_Image_n59i15n59i15n59i.jpg"/>
 </div>
 
 -----
