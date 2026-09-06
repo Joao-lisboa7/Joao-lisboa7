@@ -42,41 +42,39 @@ Hi! I'm João Pedro
 </div>
 
 -----
+
 <div>
   
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> GitHub Stats:
 
 <div align="center">
-  
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-lisboa7&theme=dark&locale=pt-br&langs_count=7"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
-</td>
-<td>
-<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-lisboa7&layout=pie&theme=dark&locale=pt-br"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
-</td>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
+  <!-- Gráficos de Linguagens -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=normal&stats_format=percentages&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=6" alt="Linguagens mais usadas" width="310" loading="lazy" />
+      </td>
+      <td align="center">
+        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=pie&stats_format=percentages&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Distribuição&langs_count=6" alt="Gráfico de Pizza" width="280" loading="lazy" />
+      </td>
+      <td align="center">
+        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=donut-vertical&stats_format=bytes&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Tamanho+em+Bytes&langs_count=6" alt="Gráfico Donut" width="280" loading="lazy" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
+<br>
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=jplisboabrito">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=jplisboabrito" alt="Data Card for Spotify">
-</a>
+-----
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> Spotify:
+
+<div align="center">
+  <!-- Card do Spotify -->
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=jplisboabrito">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=jplisboabrito" alt="Data Card for Spotify" width="850">
+  </a>
+</div>
+
+</div>
