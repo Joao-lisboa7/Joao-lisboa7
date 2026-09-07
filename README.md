@@ -19,7 +19,7 @@ Hi! I'm João Pedro
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="11"></td>
+ <td align="center" colspan="5"></td>
 </tr> 
 <tr>
 <td><a href="https://github.com/Joao-lisboa7" target="_blank"><img src="https://github.com/Joao-lisboa7/Joao-lisboa7/blob/main/github_img/github.png" width="80px" height="80px"/></a>
@@ -28,15 +28,12 @@ Hi! I'm João Pedro
 </td>
 <td><a href="https://wa.me/5531996690693" target="_blank"><img src="https://github.com/Joao-lisboa7/Joao-lisboa7/blob/main/github_img/whatsapp.png" width="80px" height="80px"/></a>
 </td>
-<td><a href="www.linkedin.com/in/joão-pedro-lisboa-augusto-de-brito-7abaa9345" target="_blank"><img src="https://github.com/Joao-lisboa7/Joao-lisboa7/blob/main/github_img/linkedin.png" width="80px" height="80px"/></a>
+<td><a href="https://www.linkedin.com/in/joão-pedro-lisboa-augusto-de-brito-7abaa9345" target="_blank"><img src="https://github.com/Joao-lisboa7/Joao-lisboa7/blob/main/github_img/linkedin.png" width="80px" height="80px"/></a>
 </td>
-</td>
-<td><a href="https://discord.com/users/745044751413411889" target="_blank"><img src="https://github.com/Joao-lisboa7/Joao-lisboa7/blob/main/github_img/discordia.png" width="80px" height="80px"/></a>
-</td>
-</td>
+<td><a href="https://discord.com/users/745044751413411889" target="_blank"><img src="https://github.com/Joao-lisboa7/Joao-lisboa7/blob/main/github_img/discordia.png" width="80px" height="80px"/></a></td>
 </tr>
 <tr>
- <td align="center" colspan="11"></td>
+ <td align="center" colspan="5"></td>
 </tr> 
 </table>
 </div>
