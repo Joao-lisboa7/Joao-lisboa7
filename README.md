@@ -47,15 +47,9 @@
 
   <div align="center">
     <!-- Seção de Frequência -->
-    <h3>Frequência de Código</h3>
-<img src="https://wakatime.com/share/@ebac3ea3-9600-445e-beca-3336a5cd2870/c5a8ef13-e676-4a8a-a05f-ad6e312a4e0c.svg" alt="Gráfico de Frequência de Código" />
+    <h3>Frequência de Código Nos Últimos 30 dias</h3>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ebac3ea3-9600-445e-beca-3336a5cd2870/e8321c09-beb0-4712-ab31-0f8461cdf885.png" /></a>
     <br></br>
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ebac3ea3-9600-445e-beca-3336a5cd2870/0e5ea44e-dd9a-457d-ac05-186c710ee109.png" /></a>
-    <br></br>
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ebac3ea3-9600-445e-beca-3336a5cd2870/a5c65794-ffb3-4134-8eef-5dea32847a19.png" /></a>
-  <br></br>
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ebac3ea3-9600-445e-beca-3336a5cd2870/16d461cb-ab70-4edf-b8c3-9b83c7496237.png" /></a>
-  </div>
 
   <br><br>
 
