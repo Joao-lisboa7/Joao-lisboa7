@@ -53,25 +53,29 @@
 
   <br><br>
 
-  <div align="center">
-    <!-- Seção de Linguagens -->
-    <h3>Linguagens</h3>
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=normal&stats_format=percentages&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=6" alt="Linguagens mais usadas" width="310" loading="lazy" />
-        </td>
-        <td align="center">
-          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=pie&stats_format=percentages&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Distribuição&langs_count=6" alt="Gráfico de Pizza" width="280" loading="lazy" />
-        </td>
-        <td align="center">
-          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=donut-vertical&stats_format=bytes&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Tamanho+em+Bytes&langs_count=6" alt="Gráfico Donut" width="280" loading="lazy" />
-        </td>
-      </tr>
-    </table>
-  </div>
+ <div align="center">
+  <!-- Seção de Linguagens -->
+  <h3>Linguagens</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
+          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&locale=pt-br&custom_title=Linguagens+mais+usadas&hide=css%2C+html&langs_count=5&bg_color=00000000" alt="Linguagens mais usadas" width="300" height="auto" loading="lazy" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
+          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=pie&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&locale=pt-br&custom_title=Linguagens+mais+usadas&hide=css%2C+html&langs_count=5&bg_color=00000000" alt="Linguagens mais usadas" width="300" height="auto" loading="lazy" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
+        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=true&border_radius=0&locale=pt-br&custom_title=Linguagens+mais+usadas+por+Bytes&hide=css%2C+html&langs_count=5&bg_color=00000000" alt="Linguagens mais usadas por Bytes" width="300" height="auto" loading="lazy"/>
+        </a>
+    </td>
+    </tr>
+  </table>
 </div>
-
 <br>
 
 -----
