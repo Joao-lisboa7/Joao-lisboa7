@@ -41,24 +41,41 @@
 -----
 
 <div>
-  
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> GitHub Stats:
+  <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> GitHub Stats:
 
-<div align="center">
-  <!-- Gráficos de Linguagens -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=normal&stats_format=percentages&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=6" alt="Linguagens mais usadas" width="310" loading="lazy" />
-      </td>
-      <td align="center">
-        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=pie&stats_format=percentages&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Distribuição&langs_count=6" alt="Gráfico de Pizza" width="280" loading="lazy" />
-      </td>
-      <td align="center">
-        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=donut-vertical&stats_format=bytes&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Tamanho+em+Bytes&langs_count=6" alt="Gráfico Donut" width="280" loading="lazy" />
-      </td>
-    </tr>
-  </table>
+  <br><br>
+
+  <div align="center">
+    <!-- Seção de Frequência -->
+    <h3>Frequência de Código</h3>
+<img src="https://wakatime.com/share/@ebac3ea3-9600-445e-beca-3336a5cd2870/c5a8ef13-e676-4a8a-a05f-ad6e312a4e0c.svg" alt="Gráfico de Frequência de Código" />
+    <br></br>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ebac3ea3-9600-445e-beca-3336a5cd2870/0e5ea44e-dd9a-457d-ac05-186c710ee109.png" /></a>
+    <br></br>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ebac3ea3-9600-445e-beca-3336a5cd2870/a5c65794-ffb3-4134-8eef-5dea32847a19.png" /></a>
+  <br></br>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ebac3ea3-9600-445e-beca-3336a5cd2870/16d461cb-ab70-4edf-b8c3-9b83c7496237.png" /></a>
+  </div>
+
+  <br><br>
+
+  <div align="center">
+    <!-- Seção de Linguagens -->
+    <h3>Linguagens</h3>
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=normal&stats_format=percentages&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=6" alt="Linguagens mais usadas" width="310" loading="lazy" />
+        </td>
+        <td align="center">
+          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=pie&stats_format=percentages&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Distribuição&langs_count=6" alt="Gráfico de Pizza" width="280" loading="lazy" />
+        </td>
+        <td align="center">
+          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Joao-lisboa7&layout=donut-vertical&stats_format=bytes&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&locale=pt-br&custom_title=Tamanho+em+Bytes&langs_count=6" alt="Gráfico Donut" width="280" loading="lazy" />
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 <br>
